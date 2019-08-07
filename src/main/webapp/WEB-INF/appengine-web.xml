@@ -17,5 +17,5 @@
     <version>1</version>
     <threadsafe>true</threadsafe>
     <runtime>java8</runtime>
-    <module>invokeconversion</module>
+    <module>imageupdate</module>
 </appengine-web-app>
